@@ -10,7 +10,7 @@ My name is Izma Mujeeb. I am from Toronto, Canada and I am a second year student
 
 ### Contact 
 - 📧 Email: izma.mujeeb@gmail.com
-- ✨ Linkedin: www.linkedin.com/in/izma-mujeeb
+- ✨ Linkedin: https://www.linkedin.com/in/izma-mujeeb 
 
 ### Technical Skills  
 -  **$${\color{purple}Languages}$$**: HTML, CSS, JavaScript, TypeScript, Python, Java
