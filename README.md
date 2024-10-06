@@ -14,8 +14,8 @@ My name is Izma Mujeeb. I am from Toronto, Canada and I am a second year student
 
 ### Technical Skills  
 -  **$${\color{purple}Languages}$$**: HTML, CSS, JavaScript, TypeScript, Python, Java
--  **$${\color{pink}Frameworks}$$**: React, Node.js, Express.js, Django, MongoDB, Mongoose, Phaser, PyGame
--  **$${\color{green}Developer \space Tools}$$**: Github, Git, Visual Studio Code, Spyder, Replit, Ubuntu, Docker, Postman API, Figma, FileZilla
+-  **$${\color{pink}Frameworks}$$**: React.js, Node.js, Express.js, Django, MongoDB, Mongoose, Phaser, PyGame
+-  **$${\color{green}Developer \space Tools}$$**: Github, Git, Visual Studio Code, Spyder, Replit, Linux, Docker, Postman API, Figma, FileZilla
 
 
 <!--
