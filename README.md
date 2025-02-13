@@ -6,7 +6,7 @@
         self.name = "Izma Mujeeb"
         self.education = "Computer Science @ Toronto Metropolitan University"
         self.location = "Toronto, Ontario"
-        self.langauges = ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL", "Bash"] 
+        self.languages = ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL", "Bash"] 
         self.frameworks = ["ReactJS", "NextJS", "Django", "Tailwind CSS"]
         self.tools = ["Git", "GitHub", "Linux", "Docker", "Postman API", "FileZilla", "Figma", "VS Code"] 
 ```
